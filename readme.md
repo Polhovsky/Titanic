@@ -1,6 +1,6 @@
 # Titanic
 
-<img src="titanic.jpg></img>
+<img src="titanic.jpg"></img>
 
 ## Description
 
